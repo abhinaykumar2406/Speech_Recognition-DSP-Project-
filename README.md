@@ -1,6 +1,4 @@
-# Speech_Recognition-DSP-Project-
-
-# Speaker-Recognition-Using-Deep-Learning-Python3
+# Speech_Recognition-DSP-Project
 
 
 ```
